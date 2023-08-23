@@ -1,0 +1,6 @@
+.allNews{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;  
+    height: 100%;
+}

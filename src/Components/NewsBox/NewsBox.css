@@ -1,0 +1,16 @@
+.child{
+    width: 31%;
+    height: 19%;
+    border: 1px solid lightgray;
+}
+.child .image{
+    width: 100%;
+    height: 50%;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+}
+.content{
+    padding: 0px 10px;
+}

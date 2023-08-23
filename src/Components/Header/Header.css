@@ -1,0 +1,24 @@
+.header{
+    text-align: center;
+}
+.header img{
+    height: 150px;
+}
+nav{
+    background-color: #26263E;
+    margin-top: 10px;
+    margin-bottom: 2rem;
+}
+nav a{
+    color: white;
+    font-size: 35px;
+    padding: 0px 20px;
+    transition: .3s;
+}
+nav a:nth-child(2){
+    margin: 0px 20px;
+}
+nav a:hover{
+    background-color: lightgray;
+    color: #26263E;
+}
